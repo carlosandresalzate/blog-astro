@@ -6,7 +6,7 @@ Crear un blog estático con [Astro](https://astro.build/) para compartir conocim
 
 ## 🤔 ¿Por que Astro?
 
-Los dos venimos del mundo Javascript, y tras analizar alternativas como jekyll ( Ruby ), hugo ( Hugo ) y otras soluciones, me parece que la mejor opcion es optar por Astro ya que tiene la compatibilidad que necesitamos con las herramientas que conocemos. Elegimos un stack amigable con JavaScript, aprovechando lo que ya dominamos. 😉
+Venimos del mundo Javascript, y tras analizar alternativas como jekyll ( Ruby ), hugo ( Hugo ) y otras soluciones, me parece que la mejor opcion es optar por Astro ya que tiene la compatibilidad que necesitamos con las herramientas que conocemos. Elegimos un stack amigable con JavaScript, aprovechando lo que ya dominamos. 😉
 
 ## 🧱 Plan inicial
 
